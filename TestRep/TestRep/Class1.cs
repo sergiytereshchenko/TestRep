@@ -8,5 +8,6 @@ namespace TestRep
 {
     class Class1
     {
+
     }
 }
